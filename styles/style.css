@@ -310,7 +310,7 @@ p {
 
 .grid-items {
   display: grid;
-  grid-gap: 170px;
+  grid-gap: 156px;
   grid-template-columns: repeat(3, 150px);
   grid-template-rows: repeat(3, 150px);
   margin-top: 32px;
